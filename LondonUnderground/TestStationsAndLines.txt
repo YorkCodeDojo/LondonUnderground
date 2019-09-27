@@ -1,0 +1,19 @@
+﻿Line: Bakerloo
+Elephant & Castle
+Lambeth North
+Waterloo
+Embankment
+Charing Cross
+Piccadilly Circus
+Oxford Circus
+Regent's Park
+Baker Street
+Marylebone
+Edgware Road
+Paddington
+Line: Victoria
+Brixton
+Charing Cross
+Stockwell
+Vauxhall
+Pimlico
