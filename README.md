@@ -1,6 +1,6 @@
 # York Code Dojo - London Underground Map
 
-Tonights meeting is based around the London Undergroup Map.  It's your groups choice what you do,  but some suggested exercises are as follows
+Tonight's meeting is based around the London Undergroup Map.  Each group can choose what you do,  some suggested exercises are as follows:
 
 1. Given a station,  display the names (and lines) of all stations which are one stop away.
 
@@ -40,9 +40,3 @@ A list of lines and stations is available in `StationsAndLines.txt` (Be careful 
 Register on https://api-portal.tfl.gov.uk/login and create a service using the data from their APIs.
 
 They have a dataset provides a 5% sample of all Oyster card journeys performed in a week during November 2009 on bus, Tube, DLR and London Overground. http://tfl.gov.uk/tfl/syndication/feeds/oystercardjourneyinformation.zip
-
-Some examples
-
-* http://brunoimbrizi.com/experiments/#/07
-* https://tubeheartbeat.com/london/
-* https://tubecreature.com/#/total/current/same/*/*/FFTFTF/9/0.7893/51.5104/
