@@ -16,7 +16,7 @@ A list of lines and stations is available in `StationsAndLines.txt` (Be careful 
 
 ## Possible solution
 
-* Parse the `StationsAndLines.txt` file to create a graph of Stations and Links.
+* Parse the `StationsAndLines.txt` file (from https://github.com/YorkCodeDojo/LondonUnderground) to create a graph of Stations and Links.
 
 * The properties of a `Station` would be
 
@@ -40,3 +40,9 @@ A list of lines and stations is available in `StationsAndLines.txt` (Be careful 
 Register on https://api-portal.tfl.gov.uk/login and create a service using the data from their APIs.
 
 They have a dataset provides a 5% sample of all Oyster card journeys performed in a week during November 2009 on bus, Tube, DLR and London Overground. http://tfl.gov.uk/tfl/syndication/feeds/oystercardjourneyinformation.zip
+
+Some examples
+
+* http://brunoimbrizi.com/experiments/#/07
+* https://tubeheartbeat.com/london/
+* https://tubecreature.com/#/total/current/same/*/*/FFTFTF/9/0.7893/51.5104/
